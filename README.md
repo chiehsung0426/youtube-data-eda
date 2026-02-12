@@ -13,7 +13,7 @@ Performed large-scale Exploratory Data Analysis (EDA) on a dataset of millions o
 ## 📊 Key Analysis & Visualizations
 *(Below are the key insights derived from the data analysis)*
 
-![YouTube Analysis Preview](Screenshot 2025-10-14 042111.png)
+![YouTube Analysis Preview](youtube_preview.png)
 > **Note:** The visualization above showcases the correlation between engagement metrics and video popularity.
 
 ## 🚀 Key Features
