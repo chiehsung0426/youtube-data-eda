@@ -22,4 +22,4 @@ Performed large-scale Exploratory Data Analysis (EDA) on a dataset of millions o
 - **Data Validation:** Implemented **Checksum** verification to ensure data consistency throughout the analytical pipeline.
 
 ---
-[![View Source Code](https://img.shields.io/badge/Python-View_Source_Code-blue?style=for-the-badge&logo=python)](https://github.com/你的帳號/你的專案名/blob/main/your_script.py)
+[![View Source Code](https://img.shields.io/badge/Python-View_Source_Code-blue?style=for-the-badge&logo=python)](https://github.com/chiehsung0426/youtube-data-eda/blob/main/01_analysis.py)
